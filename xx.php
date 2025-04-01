@@ -345,4 +345,4 @@ function doStyle($params)
         error(MsgText::LOCAL_FILE_ERROR, compact('localfilepath'));
     }
     error(MsgText::REMOTE_GET_ERROR, compact('remoteFileUrl'));
-}?>
+}
